@@ -2621,6 +2621,8 @@ http://mytv.fun:8080/kemal100/fkcjkrj77/678724
 http://mytv.fun:8080/kemal100/fkcjkrj77/678725
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Belgium Sport",------- Sports -------
 http://mytv.fun:8080/kemal100/fkcjkrj77/684083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria HD" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria HD
+http://212.102.38.58:8000/samaurigall/aExd3pyOht/9190
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Pro League FHD BE" tvg-logo="" group-title="Belgium Sport",Eleven Pro League FHD BE
 http://mytv.fun:8080/kemal100/fkcjkrj77/684092
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD BE" tvg-logo="http://pici.life/logo.png" group-title="Belgium Sport",Eleven Sports 1 FHD BE
